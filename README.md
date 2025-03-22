@@ -35,7 +35,7 @@ ssh pi@piCYC0200.local
 - troubleshooting: reboot the Raspberry Pi, or format it and install again
 
 ## setup Raspberry Pi from terminal
-- from terminal, call menu by
+- from terminal, call menu by "SuperUser Do" command
 ```
 sudo raspi-config
 ```
@@ -45,3 +45,9 @@ sudo raspi-config
 - select WIFI country to TW at (5)
 - run update (8)
 - click `Finish`
+- reboot the Raspberry Pi device by `sudo reboot` or simply unplug the device, and plug again after several seconds to reflect update
+
+## alternatively configure by VNC viewer
+- download for Windows [link](https://www.realvnc.com/en/connect/download/viewer/)
+- connect to Raspberry Pi by entering `piCYC0200.local` on VNC
+- user shall view Raspberry Pi desktop from VNC viewer
