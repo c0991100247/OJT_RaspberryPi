@@ -53,6 +53,7 @@ sudo raspi-config
 - user shall view Raspberry Pi desktop from VNC viewer
 
 # home assignment
-- clear from PC all SSH known host (usually save under`C:\Users\<YourUsername>\.ssh\known_hosts`
+- clear from PC all SSH known host (usually save under`C:\Users\<YourUsername>\.ssh\known_hosts`)
 - from VNC, click WiFi logo, click advance option from menu, and "edit connection"
 - enter home AP info (wireless) of SSID and password
+- also possible to connect Raspberry Pi from PC's VSCode by installing a plugin called "remote" for graphical interface
