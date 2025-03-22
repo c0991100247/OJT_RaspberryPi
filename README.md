@@ -51,3 +51,8 @@ sudo raspi-config
 - download for Windows [link](https://www.realvnc.com/en/connect/download/viewer/)
 - connect to Raspberry Pi by entering `piCYC0200.local` on VNC
 - user shall view Raspberry Pi desktop from VNC viewer
+
+# home assignment
+- clear from PC all SSH known host (usually save under`C:\Users\<YourUsername>\.ssh\known_hosts`
+- from VNC, click WiFi logo, click advance option from menu, and "edit connection"
+- enter home AP info (wireless) of SSID and password
