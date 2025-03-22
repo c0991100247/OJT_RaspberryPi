@@ -20,6 +20,7 @@
 - connect to power
 
 ## on PC, simulate terminal *Warp*, an AI-based software
+![instruction](202503221441.png)
 - download from PC warp.dev [link](https://www.warp.dev/)
 - signin is possible with Google account
 - both PC (where Wrap is installed) and Raspberry Pi must connect to a same AP (wifi network)
