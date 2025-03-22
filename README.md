@@ -15,8 +15,9 @@
 - wifi
 - enable SSH in SERVICE tab
 
-## simulate terminal *Warp*
-- download from PC wrap.dev [link](https://www.warp.dev/)
+## simulate terminal *Warp*, an AI-based software
+- download from PC warp.dev [link](https://www.warp.dev/)
+- signin is possible with Google account
 - 
 
 ## initialization
