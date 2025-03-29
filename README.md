@@ -66,5 +66,5 @@ sudo raspi-config
 - wi-fi connection to the same AP
 ## collaboration between lab PC and RaspberryPi
 1. in VSCode, install extension called **remote SSH**
-2. add a connection via VSCode (left panel, Remote Explorer) in a new window
+2. add a connection via VSCode (left panel, Remote Explorer) in a new window ![screenshot](20250329Untitled.png)
 3. 
