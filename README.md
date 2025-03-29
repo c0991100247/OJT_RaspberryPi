@@ -10,7 +10,7 @@
 - OS: choose latest 64-bit
 - when clicking "Next", customize OS for this course
 - device name pi+name
-- user name "Pi"
+- user name "pi"
 - password "raspberry"
 - enable wifi to classroom AP
 - enable SSH in SERVICE tab
@@ -57,3 +57,14 @@ sudo raspi-config
 - from VNC, click WiFi logo, click advance option from menu, and "edit connection"
 - enter home AP info (wireless) of SSID and password
 - also possible to connect Raspberry Pi from PC's VSCode by installing a plugin called "remote" for graphical interface
+
+# 2025.03.29 use RaspberryPi as a second device 
+## lab PC setup
+- wi-fi connection
+- VNC viewer installed
+## RaspberryPi setup
+- wi-fi connection to the same AP
+## collaboration between lab PC and RaspberryPi
+1. in VSCode, install extension called **remote SSH**
+2. add a connection via VSCode (left panel, Remote Explorer) in a new window
+3. 
