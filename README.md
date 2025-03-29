@@ -28,7 +28,7 @@
 - query for detail steps by asking question to Wrap AI
 > how to connect my Raspberry Pi device via SSH?
 - once connected, Wrap will display pi@piCYC0200
-- connectino can also be made via other command-line environment, such as VSCode terminal
+- connection can also be made via other command-line environment, such as VSCode terminal
 ```
 ssh pi@piCYC0200.local
 ```
@@ -66,5 +66,6 @@ sudo raspi-config
 - wi-fi connection to the same AP
 ## collaboration between lab PC and RaspberryPi
 1. in VSCode, install extension called **remote SSH**
-2. add a connection via VSCode (left panel, Remote Explorer) in a new window ![screenshot](20250329Untitled.png)
-3. 
+2. add a connection via VSCode (left panel, Remote Explorer) in a new window. Note the left bottom corner for different devices ![screenshot](20250329Untitled.png)
+3. clone repository from GitHub into Raspberry Pi at Documents folder ![after connection](2025032901Untitled.png)
+4. whenever connecting to GitHub, **pull** the latest edition of file
